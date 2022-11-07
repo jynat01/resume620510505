@@ -240,7 +240,7 @@ h4 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   color: #fff;
-  background: #e6dace;
+  background: #57524D;
 }
 
 .nav-menu a:hover span,
@@ -340,7 +340,7 @@ h4 {
 }
 
 #hero p span {
-  color: #a38166;
+  color: #554233;
   letter-spacing: 1px;
 }
 
@@ -418,7 +418,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #a38166;
+  background: #57524d;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -554,7 +554,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #a38166;
+  border-left: 2px solid #57524d;
   position: relative;
 }
 
@@ -564,7 +564,7 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #a38166;
+  color: #57524d;
   margin-bottom: 10px;
 }
 
@@ -598,7 +598,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #a38166;
+  border: 2px solid #57524d;
 }
 
 /*--------------------------------------------------------------
@@ -1156,7 +1156,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #a38166;
+  background: #57524d;
   border: 0;
   padding: 10px 35px;
   color: #fff;
@@ -1313,5 +1313,5 @@ section {
     transition: 1s;
 }
 #back-top a:hover span {
-    background-color: #a38166;
+    background-color: #57524d;
 }
