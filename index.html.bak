@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>MyResume Bootstrap Template - Index</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>Nattanaporn Sevawat Resume</title>
+    <meta name="author" content="Nattanaporn Sevawat">
+    <meta name="keywords" content="Nattanaporn Resume, Resume, Nattanaporn, Sevawat, Nat, CV,  Faculty of Arts, Arts, Silpakorn University">
+    <meta name="description" content="Nattanaporn Sevawat Resume Website, who studying at third-year of Faculty of Arts, Silpakorn University">
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i%7CRaleway:300,300i,400,400i,500,500i,600,600i,700,700i%7CPoppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i%7CRaleway:300,300i,400,400i,500,500i,600,600i,700,700i%7CPoppins:300,300i,400,400i,500,500i,600,600i,700,700i"
       rel="stylesheet">
     <!-- Vendor CSS Files -->
     <link href="assets/vendor/aos/aos.css" rel="stylesheet">
@@ -25,34 +24,36 @@
     <!-- font poppins -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&amp;display=swap"
-
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&amp;display=swap"
       rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins&amp;display=swap"
-
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&amp;display=swap"
       rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Pridi:wght@300&amp;display=swap"
-
+    <link href="https://fonts.googleapis.com/css2?family=Pridi:wght@300&amp;display=swap"
       rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <!-- =======================================================
   * Template Name: MyResume - v4.9.1  * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/  * Author: BootstrapMade.com  * License: https://bootstrapmade.com/license/  ======================================================== -->
   </head>
-  <body> <!-- ======= Mobile nav toggle button ======= -->
+  <body id="top">
+    <!-- ======= Mobile nav toggle button ======= -->
     <!-- <button type="button" class="mobile-nav-toggle d-xl-none"><i class="bi bi-list mobile-nav-toggle"></i></button> -->
     <!-- ======= Header ======= -->
+    <p id="back-top"> <a href="#top"> <span style="color: white;" class="glyphicon glyphicon-arrow-up pondtoptoptop"><br>
+          <img src="assets/img/logo/totop.png" class="img-fluid" alt="&#3611;&#3640;&#3656;&#3617;&#3585;&#3604; Back to top"></span>
+      </a> </p>
     <header id="header" class="d-flex flex-column justify-content-center">
       <nav id="navbar" class="navbar nav-menu">
         <ul>
-          <li><a href="#hero" class="nav-link scrollto active"> <span>Home</span></a></li>
-          <li><a href="#about" class="nav-link scrollto"> <span>About</span></a></li>
-          <li><a href="#skills" class="nav-link scrollto"> <span>Skills</span></a></li>
-          <li><a href="#resume" class="nav-link scrollto"> <span>Resume</span></a></li>
-          <li><a href="#projects" class="nav-link scrollto"> <span>Projects</span></a></li>
-          <li><a href="#contact" class="nav-link scrollto"> <span>Contact</span></a></li>
+          <li><a href="#hero" class="nav-link scrollto active"> <i class="material-icons">home</i><span>Home</span></a></li>
+          <li><a href="#about" class="nav-link scrollto"><i class="material-icons">favorite</i><span>About</span></a></li>
+          <li><a href="#skills" class="nav-link scrollto"> <i class="material-icons">lists</i><span>Skills</span></a></li>
+          <li><a href="#resume" class="nav-link scrollto"> <i class="material-icons">attachment</i><span>Resume</span></a></li>
+          <li><a href="#projects" class="nav-link scrollto"> <i class="material-icons">computer</i><span>Projects</span></a></li>
+          <li><a href="#contact" class="nav-link scrollto"><i class="material-icons">phone</i><span>Contact</span></a></li>
         </ul>
       </nav>
       <!-- .nav-menu --> </header>
@@ -60,7 +61,8 @@
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex flex-column justify-content-center">
       <div class="container" data-aos="zoom-in" data-aos-delay="100">
-        <h1>Nattanaporn Sevawat</h1>
+        <h1>Nattanaporn Sevawat's <br>
+          Resume</h1>
         <p>I'm <span class="typed" data-typed-items="what I am, Freelancer, Photographer"></span></p>
         <div class="social-links"> </div>
       </div>
@@ -74,9 +76,8 @@
             <h2>About</h2>
           </div>
           <div class="row">
-            <div class="col-lg-4"> <img class="zoom" src="assets/img/profileE.jpg"
-
-                alt=""> </div>
+            <div class="col-lg-4"> <img class="zoom" src="assets/img/profileE.jpg"
+                alt="Profile of Nattanaporn Sevawat "> </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content">
               <h2>Hello ! here's who I am &amp; what I do</h2>
               <p> My name is Nattanaporn Sevawat. You can call me 'Nat'.
@@ -93,12 +94,12 @@
                     <li> <strong>Freelance:</strong> <span>Available</span></li>
                     <div id="mylogo">
                       <div class="row">
-                        <div class="col-md-1"><a href="https://m.facebook.com/kitty.v.nat"><img
-
-                              src="assets/img/logo/fbb.png" width="20"></a></div>
-                        <div class="col-md-11"><a href="https://www.instagram.com/jy.nat/"><img
-
-                              src="assets/img/logo/igbb.png" width="20"></a></div>
+                        <div class="col-md-1"><a href="https://m.facebook.com/kitty.v.nat"><img
+                              src="assets/img/logo/fbb.png" alt="icon facebook and you can click to Nattanaporn Sevawat's Facebook here"
+                              width="20"></a></div>
+                        <div class="col-md-11"><a href="https://www.instagram.com/jy.nat/"><img
+                              src="assets/img/logo/igbb.png" alt="icon instagram and you can click to Nattanaporn Sevawat's instagram here"
+                              width="20"></a></div>
                       </div>
                     </div>
                   </ul>
@@ -107,13 +108,10 @@
                   <ul>
                     <li> <strong>Age:</strong> <span>21</span></li>
                     <li> <strong>Degree:</strong> <span>Bachelor of Arts</span></li>
-                    <li> <strong>Email:</strong> <a href="mailto:agentavery@sample.com?"
-
+                    <li> <strong>Email:</strong> <a href="mailto:agentavery@sample.com?"
                         subject="HTML link">nattanaporn.se@gmail.com</a></li>
-                    <a data-testid="linkElement" href="https://8bc07ad7-45cc-4622-aefa-6e1992fb9add.filesusr.com/ugd/ed2381_02ad354598194137bd650ed867a58838.pdf"
-
-                      target="_blank" class="_1fbEI" aria-disabled="false"><span
-
+                    <a data-testid="linkElement" href="https://8bc07ad7-45cc-4622-aefa-6e1992fb9add.filesusr.com/ugd/ed2381_02ad354598194137bd650ed867a58838.pdf"
+                      target="_blank" class="_1fbEI" aria-disabled="false"><span
                         class="_1Qjd7">DOWNLOAD CV</span></a>
                   </ul>
                 </div>
@@ -202,7 +200,7 @@
                   </li>
                   <p><em>Director thia syage play</em></p>
                   <li>
-                    <div id="th"> จอมบงการ
+                    <div id="th"> &#3592;&#3629;&#3617;&#3610;&#3591;&#3585;&#3634;&#3619;
                       <h5>2020</h5>
                     </div>
                   </li>
@@ -261,7 +259,7 @@
       </section>
       <!-- End Resume Section -->
       <!-- ======= projects Section ======= -->
-      <section id="testimonials" class="testimonials section-bg">
+      <section id="projects" class="testimonials section-bg">
         <div class="container" data-aos="fade-up">
           <div class="section-title">
             <h2>Projects</h2>
@@ -269,27 +267,25 @@
           <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
             <div class="swiper-wrapper">
               <div class="swiper-slide">
-                <div class="testimonials-item"><a href="https://8bc07ad7-45cc-4622-aefa-6e1992fb9add.filesusr.com/ugd/ed2381_9cda33f6e3d347d290c28b7e9956fde4.pdf"><img
-
-                      src="assets/img/project/pj1.jpg" class="testimonials-img"
-
-                      alt=""></a>
-                  <h3><br>The fifth dream (2020)</h3>
-                  <div id="th2">บทวิเคราะห์</div>
+                <div class="testimonials-item"><a href="https://8bc07ad7-45cc-4622-aefa-6e1992fb9add.filesusr.com/ugd/ed2381_9cda33f6e3d347d290c28b7e9956fde4.pdf"><img
+                      src="assets/img/project/pj1.jpg" alt="The fifth dream Project (2020)"
+                      class="testimonials-img"></a>
+                  <h3><br>
+                    The fifth dream (2020)</h3>
+                  <div id="th2">&#3610;&#3607;&#3623;&#3636;&#3648;&#3588;&#3619;&#3634;&#3632;&#3627;&#3660;</div>
                   <p> Analysis of the play, techniques, and design </p>
                 </div>
               </div>
               <!-- End testimonials item -->
               <div class="swiper-slide">
-                <div class="testimonials-item"><a href="assets/img/project/poster.pdf"><img
-
-                      src="assets/img/project/pj2.jpg" class="testimonials-img"
-
-                      alt=""></a>
-                  <div id="th1"><br><b>อยากเป็นเด็กละครต้องทำอย่างไร&#63;</b></div>
-                  <div id="th2">โปสเตอร์</div>
+                <div class="testimonials-item"><a href="assets/img/project/poster.pdf"><img
+                      src="assets/img/project/pj2.jpg" alt="&#3650;&#3611;&#3626;&#3648;&#3605;&#3629;&#3619;&#3660;&#3612;&#3621;&#3591;&#3634;&#3609;&#3626;&#3639;&#3656;&#3629;&#3611;&#3619;&#3632;&#3594;&#3634;&#3626;&#3633;&#3617;&#3614;&#3633;&#3609;&#3608;&#3660;&#3626;&#3634;&#3586;&#3634;&#3623;&#3636;&#3594;&#3634;&#3609;&#3634;&#3599;&#3618;&#3626;&#3633;&#3591;&#3588;&#3637;&#3605;"
+                      class="testimonials-img"></a>
+                  <div id="th1"><br>
+                    <b>&#3629;&#3618;&#3634;&#3585;&#3648;&#3611;&#3655;&#3609;&#3648;&#3604;&#3655;&#3585;&#3621;&#3632;&#3588;&#3619;&#3605;&#3657;&#3629;&#3591;&#3607;&#3635;&#3629;&#3618;&#3656;&#3634;&#3591;&#3652;&#3619;?</b></div>
+                  <div id="th2">&#3650;&#3611;&#3626;&#3648;&#3605;&#3629;&#3619;&#3660;</div>
                   <div id="th2">
-                    <p> สื่อประชาสัมพันธ์สาขาวิชานาฏยสังคีต </p>
+                    <p> &#3626;&#3639;&#3656;&#3629;&#3611;&#3619;&#3632;&#3594;&#3634;&#3626;&#3633;&#3617;&#3614;&#3633;&#3609;&#3608;&#3660;&#3626;&#3634;&#3586;&#3634;&#3623;&#3636;&#3594;&#3634;&#3609;&#3634;&#3599;&#3618;&#3626;&#3633;&#3591;&#3588;&#3637;&#3605; </p>
                   </div>
                 </div>
               </div>
@@ -324,22 +320,17 @@
             <div class="col-lg-8 mt-5 mt-lg-0">
               <form action="forms/contact.php" method="post" role="form" class="php-email-form">
                 <div class="row">
-                  <div class="col-md-6 form-group"> <input name="name" class="form-control"
-
+                  <div class="col-md-6 form-group"> <input name="name" class="form-control"
                       id="name" placeholder="Your Name" required="" type="text">
                   </div>
-                  <div class="col-md-6 form-group mt-3 mt-md-0"> <input class="form-control"
-
-                      name="email" id="email" placeholder="Your Email" required=""
-
+                  <div class="col-md-6 form-group mt-3 mt-md-0"> <input class="form-control"
+                      name="email" id="email" placeholder="Your Email" required=""
                       type="email"> </div>
                 </div>
-                <div class="form-group mt-3"> <input class="form-control" name="subject"
-
+                <div class="form-group mt-3"> <input class="form-control" name="subject"
                     id="subject" placeholder="Subject" required="" type="text">
                 </div>
-                <div class="form-group mt-3"> <textarea class="form-control" name="message"
-
+                <div class="form-group mt-3"> <textarea class="form-control" name="message"
 rows="5" placeholder="Message" required=""></textarea> </div>
                 <div class="my-3">
                   <div class="loading">Loading</div>
@@ -359,7 +350,7 @@ rows="5" placeholder="Message" required=""></textarea> </div>
       <div class="container">
         <h3>Nattanaporn Sevawat</h3>
         <div class="social-links"> </div>
-        <div class="copyright"> © Copyright <strong><span>MyResume</span></strong>.
+        <div class="copyright"> � Copyright <strong><span>MyResume</span></strong>.
           All Rights Reserved </div>
         <div class="credits">
           <!-- All the links in the footer should remain intact. -->
